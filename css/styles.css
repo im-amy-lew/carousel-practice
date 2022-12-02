@@ -1,0 +1,13 @@
+.carousel-inner {
+  border-radius: 1rem;
+  background-color: rgba(0,0,0,0);
+  overflow: hidden;
+}
+
+img {
+  border-radius: 1rem;
+}
+
+body {
+  height: 100vh;
+}
