@@ -8,6 +8,8 @@ img {
   border-radius: 1rem;
 }
 
-body {
-  height: 100vh;
+@media only screen and (min-width: 992px) {
+  .carousel {
+    width: 57%;
+  }
 }
